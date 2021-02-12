@@ -1,0 +1,76 @@
+application:
+  domain: lykostech.org
+  name: 'The Green River Lorax Investment Inc.'
+  theme: indigo-pink
+  showGitHubLinks: true
+  altcoinName: lorax
+  privacyContactEmail: 'donotreply@lykostech.org'
+  customMetricsPrefix: lorax 
+  social:
+      twitterUrl: null
+      facebookUrl: null
+      slackUrl: null
+      redditUrl: null
+      pressKitUrl: null
+      questionnaireUrl: null
+  recyclePage:
+    topProductImage: undefined.png
+    bottomProductImage: thingie1.jpg
+  welcomeBanner:
+    showOnFirstStart: false
+  securityTxt:
+    contact: 'mailto:donotreply@lykostech.org'
+    encryption: ~
+  easterEggPlanet:
+    name: Wolfen VI
+    overlayMap: 'http://www.userlogos.org/files/logos/inductiveload/Google%20Code.png'
+challenges:
+  xssBonusPayload: '<iframe width="560" height="315" src="https://www.youtube.com/embed/DJmEwkz6DN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+hackingInstructor:
+  isEnabled: false
+products:
+  -
+    name: 'Lorax IRA Fund'
+    description: 'This is the basic IRA cash fund for your Lorax account.'
+    price: 100
+  -
+    name: 'Lorax 2050 retirement Fund'
+    description: 'This is a balanced fund for people retiring in 2050.'
+    price: 100
+  -
+    name: 'Lorax You Only Live Once Fund'
+    description: 'This is a high risk fund where you will likly end up with nothing but you got to risk it for a bisket'
+    price: 100
+    reviews:
+      - {text: 'This is the fund that invested everything it had in mortgage backed debt in 2008', author: 'bender'}
+  -
+    name: 'Lorax I plan to Live for Ever Fund'
+    description: 'This fund just gets US T-Bills because if that goes who wants to live for ever.'
+    price: 100
+    urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/O-Saft'
+  -
+    name: 'Lorax Whats In the Box Fund'
+    description: 'It is best to not ask what is in this box trust us.'
+    price: 100
+    image: thingie1.jpg
+    fileForRetrieveBlueprintChallenge: squareBox1-40x40x40.stl
+  -
+    name: 'Lorax Christmas Fund'
+    description: 'Much like a kid on Christmas you are left hoping that someone listened to what you wanted.'
+    price: 100
+    useForChristmasSpecialChallenge: true
+  -
+    name: 'Lorax Lost Fund'
+    description: 'It may feel like we lost your money in this fund but who does not like a game of hide and seek.'
+    price: 100
+    keywordsForPastebinDataLeakChallenge:
+      - couatl
+      - rakshasa
+    reviews:
+      - { text: 'I did not find what I was looking for but I guess that was the point', author: 'morty'}
+  -
+    name: 'The Last Fund'
+    description: 'This is the last fund in the list no really it is.'
+    price: 100
+
+

@@ -14,9 +14,9 @@
       mobileNum: 1234567890
       zipCode: '4711'
       streetAddress: '0815 Test Street'
-      city: 'Test'
-      state: 'Test'
-      country: 'Test'
+      city: 'Auburn'
+      state: 'WA'
+      country: 'USA'
   card:
     - fullName: 'Administrator'
       cardNum: 4716190207394368

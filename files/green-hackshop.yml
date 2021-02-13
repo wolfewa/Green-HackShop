@@ -1,11 +1,11 @@
 application:
-  domain: greenriver.edu
+  domain: demo.greenriver.edu
   name: 'The Green River Student Juice Shop'
   logo: 'https://www.greenriver.edu/media/site-assets/img/logo.png'
   favicon: 'https://www.greenriver.edu/media/site-assets/img/icons/favicon.ico'
   theme: bluegrey-lightgreen
   showGitHubLinks: true
-  altcoinName: lorax
+  altcoinName: greenbit
   privacyContactEmail: 'donotreply@greenriver.edu'
   customMetricsPrefix: greenriver
   chatBot:

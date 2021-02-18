@@ -60,7 +60,7 @@
       expYear: 2099
 -
   email: bender
-  password: 'OhG0dPlease1nsertLiquor!'
+  password: 'f00tba1!'
   key: bender
   role: 'customer'
   securityQuestion:
@@ -112,7 +112,7 @@
     answer: 'Brd?j8sEMziOvvBf§Be?jFZ77H?hgm'
 -
   email: support
-  password: 'J6aVjTgOpRs$?5l+Zkq2AYnCE@RF§P'
+  password: 'J6aVjTgOpRs$?5l+Zkq2AYnC'
   key: support
   role: 'admin'
   securityQuestion:
@@ -120,7 +120,7 @@
     answer: 'SC OLEA SRL' # http://www.olea.com.ro/
 -
   email: morty
-  password: 'focusOnScienceMorty!focusOnScience'
+  password: 'sh@d0w'
   key: morty
   role: 'customer'
   walletBalance: 100
@@ -146,7 +146,7 @@
 -
   email: wurstbrot
   username: wurstbrot
-  password: 'EinBelegtesBrotMitSchinkenSCHINKEN!'
+  password: 'wurstbrot'
   totpSecret: IFTXE3SPOEYVURT2MRYGI52TKJ4HC3KH
   key: timo
   role: 'admin'
@@ -245,7 +245,7 @@
 -
   email: stan
   username: SmilinStan
-  password: 'ship coffin krypt cross estate supply insurance asbestos souvenir'
+  password: 'S0cc3r'
   key: stan
   profileImage: '20.jpg'
   role: 'deluxe'
